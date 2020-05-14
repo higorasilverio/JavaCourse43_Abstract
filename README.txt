@@ -1,0 +1,1 @@
+Using abstract classes to calculate the taxes to be paid for a individual or a company.
